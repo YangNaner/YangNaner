@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi this is ⚡⚡⚡BlackFlashW⚡⚡⚡
 
-- 🔭 I’m currently working on HUAWEI.
+- 🔭 I’m currently working on HUAWEI(wai bao).
   - 🔭 我在HUAWEI任职
 - 🌱 I’m currently learning C/C++, But I am a slow learner.
   - 🌱 我目前正在学习C/C++，但是我学的很慢。
